@@ -1,0 +1,12 @@
+.card-body {
+  display: none;
+}
+#guess-btn {
+  background: #23272b;
+  color: white;
+  border: none;
+  border-radius: 2px;
+  padding: 0px 20px;
+  font-size: 0.8rem;
+  height: 2rem;
+}
